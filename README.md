@@ -24,10 +24,13 @@ O sistema é capaz de identificar e recomendar as seguintes carreiras:
    python -m venv .venv
 
 3. Ativando o ambiente virtual liberando a execução de scripts:
+   ```powershell
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned; .\.venv\Scripts\Activate.ps1
 
 4. Instale as dependências:
+   ```powershell
    pip install -r requirements.txt
 
 5. Inicie: 
+   ```powershell
    python -m streamlit run app.py
