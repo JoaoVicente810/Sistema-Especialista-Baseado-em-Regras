@@ -1,4 +1,4 @@
-# Fase 1 — Engenharia de Conhecimento e Matriz de Decisão
+# Fase 1: Engenharia de Conhecimento e Matriz de Decisão
 
 Para esta primeira fase do projeto, estruturamos a nossa base de conhecimento em 4 perguntas principais (dimensões) que o usuário responde na entrevista. Cada resposta dispara regras no motor de inferência (Experta) e soma pontos para as trilhas de carreira. A trilha com a maior pontuação no final é a recomendada.
 
