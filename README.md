@@ -34,3 +34,11 @@ O sistema é capaz de identificar e recomendar as seguintes carreiras:
 5. Inicie: 
    ```powershell
    python -m streamlit run app.py
+
+   Fotos do Sistema
+
+**Entrevista Dinâmica**
+![Perguntas do Consultor de Carreiras](site1.png)
+
+**Resultado da Análise**
+![Resultado e justificativas das regras](site2.png)
